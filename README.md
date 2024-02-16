@@ -1,16 +1,5 @@
-# discoverypage
-
 A flutter app to displays data from api
 
-## Getting Started
+![Screenshot_20240217_030813](https://github.com/amancd/api_data_fetch_flutter/assets/116139327/a33ea8f5-5428-4689-b622-a5ae8de9e6c7)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic App to fetch data from api
